@@ -1,0 +1,81 @@
+{
+  "CVProfile": {
+    "name": "Pauline Feytel",
+    "job": "Software developer",
+    "telephone": "07 22 89 00 02",
+    "address": "Nybohovsgränd 13\n11763 STOCKHOLM",
+    "mail": "pauline.feytel@gmail.com",
+    "website": "http://paulinefeytel.me"
+  },
+  "Objective": {
+    "objective": "I'm looking for a job as junior software developer in Stockholm"
+  },
+  "Experience": [
+    {
+      "title": "Java Training at KTH",
+      "date": "2017",
+      "mission": [
+        "Java development",
+        "Object-oriented development",
+        "Android",
+        "Scrum"
+      ]
+    },
+    [
+      {
+        "title": "Sweden",
+        "date": "2015 - 2017",
+        "mission": [
+          "Learn HTML/CSS/JavaScript at home with online courses",
+          "Improve my English at Folkuniversitetet",
+          "Learn Swedish at SFI",
+          "Substitute in a French förskola"
+        ]
+      }
+    ],
+    [
+      {
+        "title": "Software Developer at Alma Consulting Group",
+        "date": "2007 - 2015",
+        "Mission": [
+          "My mission was to create tools for helping extracting data from one format to another (PDF, Excel or other formats).",
+          "I was also in charge of designing, implementing and maintaining a database used by multiple teams internally.",
+          "Technologies used: VBA, Excel, Access."
+        ]
+      }
+    ]
+  ],
+  "Education": [
+    {
+      "title": "Bachelor's degree",
+      "city": "Montpellier 2 University",
+      "name": "Software development",
+      "date": "2003-2004"
+    },
+    {
+      "title": "Higher National Diploma",
+      "city": "Valence (Barthélemy de Laffemas)",
+      "name": "Software development",
+      "date": "2001-2003"
+    }
+  ],
+  "Skills": [
+    "Java",
+    "Android",
+    "Git",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Visual Basic"
+  ],
+  "Language": [
+    "French: mother tongue",
+    "English: professional working",
+    "Swedish: intermediate"
+  ],
+  "Hobbies": [
+    "Spending time with my family",
+    "Walking in Stockholm",
+    "Reading"
+  ]
+}
