@@ -21,29 +21,40 @@
         "Scrum"
       ]
     },
-    [
-      {
-        "title": "Sweden",
-        "date": "2015 - 2017",
-        "mission": [
-          "Learn HTML/CSS/JavaScript at home with online courses",
-          "Improve my English at Folkuniversitetet",
-          "Learn Swedish at SFI",
-          "Substitute in a French förskola"
-        ]
-      }
-    ],
-    [
-      {
-        "title": "Software Developer at Alma Consulting Group",
-        "date": "2007 - 2015",
-        "Mission": [
-          "My mission was to create tools for helping extracting data from one format to another (PDF, Excel or other formats).",
-          "I was also in charge of designing, implementing and maintaining a database used by multiple teams internally.",
-          "Technologies used: VBA, Excel, Access."
-        ]
-      }
-    ]
+    {
+      "title": "Sweden",
+      "date": "2015 - 2017",
+      "mission": [
+        "Learn HTML/CSS/JavaScript at home with online courses",
+        "Improve my English at Folkuniversitetet",
+        "Learn Swedish at SFI",
+        "Substitute in a French förskola"
+      ]
+    },
+    {
+      "title": "Software Developer at Alma Consulting Group",
+      "date": "2007 - 2015",
+      "mission": [
+        "My mission was to create tools for helping extracting data from one format to another (PDF, Excel or other formats).",
+        "I was also in charge of designing, implementing and maintaining a database used by multiple teams internally.",
+        "Technologies used: VBA, Excel, Access."
+      ]
+    },
+    {
+      "title": "Software Developer at Sogeti",
+      "date": "2005 - 2007",
+      "mission": [
+        "My mission was to develop internal tools used for maintaining workstations. I also did IT support.",
+        "Technologies used: VisualBasic, VBA, Excel, Access"
+      ]
+    },
+    {
+      "title": "Software Developer at Solo Solution Autonome",
+      "date": "2004 - 2005",
+      "mission": [
+        "My mission was to design and implement interfaces for mobile devices, using Solo’s proprietary technology."
+      ]
+    }
   ],
   "Education": [
     {
@@ -68,7 +79,7 @@
     "JavaScript",
     "Visual Basic"
   ],
-  "Language": [
+  "Languages": [
     "French: mother tongue",
     "English: professional working",
     "Swedish: intermediate"

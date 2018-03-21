@@ -1,6 +1,8 @@
 package com.example.pauline.mycv.view;
 
 import android.content.Intent;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -10,6 +12,7 @@ import com.example.pauline.mycv.FileHelper;
 import com.example.pauline.mycv.R;
 import com.example.pauline.mycv.model.CV;
 import com.example.pauline.mycv.model.CVProfile;
+import com.example.pauline.mycv.model.Objective;
 import com.google.gson.Gson;
 
 public class MainActivity extends AppCompatActivity {
@@ -42,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
         Gson gson = new Gson();
         return gson.fromJson(json, CV.class).getCVProfile();
     }
+
 
     public void displayCvProfile(CVProfile cvProfile) {
         job.setText(cvProfile.getJob());
